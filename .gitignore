@@ -1,0 +1,6 @@
+output
+*.DRC
+*.drc
+*.csv
+sch/*
+doc/*

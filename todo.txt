@@ -1,0 +1,9 @@
+
+*********	27.08.14	Increase spacing between elements to 0.25 mm.
+*********	20.10.14	Correct PCB footprint for ST-215N (mirror) on Carrier.
+*********	22.10.14	Add to Carrier gnd pin (for oscilloscope) on top side.
+*********			Correct DD9 - DD10 segment: 2.5V -> 3.3V (or choice), variant without DD9. 
+*********			Add pins on AST for DD9, DD10
+*********			R94 -> 1K24-1%
+*********			Protect vias from gnd under DSP.
+				
